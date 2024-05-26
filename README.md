@@ -8,6 +8,7 @@ After 40 epochs of training, the model is evaluated using various performance me
 Additionally, a confusion matrix is visualized to assess the model's classification performance.
 
 **INDRODUCTION:**
+
 Social media platforms have transformed the way people communicate, share information, and engage with one another. 
 However, along with its numerous advantages, social media has become a breeding ground for scams and fraudulent activities. 
 Scammers exploit the wide reach, anonymity, and ease of use provided by these platforms to deceive unsuspecting users, 
